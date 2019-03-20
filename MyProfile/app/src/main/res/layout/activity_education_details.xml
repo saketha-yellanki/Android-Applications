@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Masters in Electrical Engineering"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#222222"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Massachusetts Institute of Technology"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="16dp"/>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/greydivider"/>
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Masters in Physics"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#222222"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Massachusetts Institute of Technology"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="16dp"/>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/greydivider"/>
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bachelors in Electrical Engineering"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#222222"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Massachusetts Institute of Technology"
+        android:textColor="#555555"
+        android:textSize="12sp"
+        android:layout_marginBottom="16dp"/>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/greydivider"/>
+</LinearLayout>
